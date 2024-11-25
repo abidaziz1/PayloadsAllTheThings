@@ -2,7 +2,6 @@
 
 > A Denial of Service (DoS) attack aims to make a service unavailable by overwhelming it with a flood of illegitimate requests or exploiting vulnerabilities in the target's software to crash or degrade performance. In a Distributed Denial of Service (DDoS), attackers use multiple sources (often compromised machines) to perform the attack simultaneously.
 
-
 ## Summary
 
 * [Methodology](#methodology)
